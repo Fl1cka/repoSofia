@@ -1,0 +1,27 @@
+1. lahtris A1 on väärtus 70 ja lahtris A2 väärtus 140.
+ Lahtrisse A3 on kirjutatud järgmine valem:SUM(A1:A2)/10 
+Mis tulemus sa saad?
+
+
+2.Lahtris B1 on väärtus 10, lahtris B2 väärtus 20, lahtris B3 väärtus 30.
+Lahtrisse B4 on kirjutatud valem:AVERAGE(B1:B3)
+Mis tulemus sa saad?
+
+
+3. Lahtris B1 on väärtus 5, lahtris B2 väärtus 15, lahtris B3 väärtus 25.
+Lahtrisse B4 on kirjutatud valem: =MAX(C1:C3)
+Mis tulemus sa saad?
+
+
+4. Lahtris A1 on tekst Tere.
+Lahtrisse A2 on kirjutatud valem: =RIGHT(G1,2)
+Mis tulemus sa saad?
+
+
+5. Lahtris B1 on tekst Kool.
+Lahtrisse B2 on kirjutatud valem: =LEN(H1)
+Mis tulemus sa saad?
+
+
+
+
